@@ -2,4 +2,4 @@
 # Create a dahsboard to analyse the performance of a store using excel  
 
 
-![Uploading dashboard excel.JPG…]()
+![dashboard excel](https://github.com/user-attachments/assets/229d1226-efa1-4d7c-a875-bf4719cb1a48)
